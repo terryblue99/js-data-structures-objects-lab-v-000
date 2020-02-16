@@ -1,4 +1,4 @@
-# Objects Lab
+## Objects Lab
 
 ## Overview
 In this lab, we'll create `driver` objects and perform various operations on them.
